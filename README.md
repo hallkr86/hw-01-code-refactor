@@ -9,6 +9,8 @@ There is a navigation bar that is in-line with the header. If a user would like 
 
 This page was built in Visual Studio Code using the an indentation style.
 
+Deployed Site:https://hallkr86.github.io/hw-01-code-refactor/
+
 <head>
 </head>
 
